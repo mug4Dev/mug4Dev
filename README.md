@@ -1,6 +1,6 @@
 ### <Olá mundo!> Eu sou Murilo Vicente! 👋
 ##
-Sou um aspirante em progamção back-end e analise de dados! Apaixonado por tecnologia e aprender cada vez mais! Sou formado em ADS pela Universidade Cruzeiro do Sul
+Sou um aspirante em progamção back-end! Apaixonado por tecnologia e aprender cada vez mais! Sou formado em ADS pela Universidade Cruzeiro do Sul
 
 - 🌱 Atualmente estou aprendendo Node.js; HTML e CSS.
 - 💼 Estou buscando colaborar em projetos de Back-end, suporte ou Junior!.
