@@ -3,8 +3,8 @@
 Sou um aspirante em progamção back-end! Apaixonado por tecnologia e aprender cada vez mais! Sou formado em ADS pela Universidade Cruzeiro do Sul
 
 - 🌱 Atualmente estou aprendendo Node.js; HTML e CSS.
-- 💼 Estou buscando colaborar em projetos de Back-end, suporte ou Junior!.
-- 💬 Pergunte-me sobre JavaScript que talvez eu consiga te ajudar!.
+- 💼 Estou buscando colaborar em projetos de Back-end, suporte ou Junior!
+- 💬 Pergunte-me sobre JavaScript que talvez eu consiga te ajudar!
 - 📫 Como me encontrar:
 
   <div> 
