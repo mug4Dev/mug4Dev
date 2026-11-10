@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "add-sfx": {
+      "source": "remotion-dev/remotion",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/add-sfx/SKILL.md",
+      "computedHash": "10ceced83c514744e76c6dc6f3390cdd59d0e4eeb28acb8891183338d6322a2c"
+    },
+    "game-sfx": {
+      "source": "GhazaGG/Game-Sound-Effect-for-Claude",
+      "sourceType": "github",
+      "skillPath": "skills/game-sfx/SKILL.md",
+      "computedHash": "6ce8ddd8ee4df73e394a51de10163e427eba8531da9acfbdeab8c127ad2e2ee5"
+    }
+  }
+}
